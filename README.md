@@ -4,6 +4,10 @@
   </a>
 </p>
 
+# AWeSome 2
+
+This respository will be used for a data donation study done by AWeSome 2 at the UvA.
+
 # Port: A frontend for data donation
 
 Port is a research tool that enables individuals to donate their digital trace data for academic research in a secure, transparent, and privacy-preserving way.
